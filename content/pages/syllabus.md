@@ -46,19 +46,289 @@ Candida Höfer, Duane Michals, Andy Warhol, Alfredo Jarr, James Nachtwey, Cindy 
 Calendar
 --------
 
-| Week # | Topics | Events |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course Philosophy, Introduction to the facilities etc. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Term Assignment: "The same again differently" {{< br >}}{{< br >}} Darkroom Orientation {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Anne Cahill, Nikon Inc., Technical Representative (Come prepared with questions regarding equipment use) {{< br >}}{{< br >}} Darkroom Orientation {{< br >}}{{< br >}}  |  |
-| 3 |  {{< br >}}{{< br >}} Class Review {{< br >}}{{< br >}} Yvonne Rainer, "Out of a Corner of the Sixties" {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction to Digital Imaging (Dan van Roekel) Workshop in 3 groups, Individual Reviews per sign-up schedule {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Production {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Workshop I (Aaron Wittkamper and Aaron Malnarick) {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Individual Reviews {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Paul Messier, Guest Lecturer on Color Photography and Processes {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Class Review (Last class review before midterm! Please pin-up prior to class) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Production and Lighting Workshop with Dan van Roekel {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Production {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Review {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Class Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Photography in the Museum: Metropolitan Museum of Art, NYC {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Class Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction to local art venues: Bill Arning, Curator, MIT List Center {{< br >}}{{< br >}}  |
-| 10 |  |  {{< br >}}{{< br >}} Workshop II {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Class Review {{< br >}}{{< br >}} Production {{< br >}}{{< br >}}  |  |
-| 12 |  {{< br >}}{{< br >}} Individual Reviews {{< br >}}{{< br >}} Critique (Last class review! Address all important issues!) {{< br >}}{{< br >}} Production {{< br >}}{{< br >}}  |  |
-| 13 |  {{< br >}}{{< br >}} Production {{< br >}}{{< br >}}  |  |
-| 14 |  {{< br >}}{{< br >}} Final Review {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Events
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Philosophy, Introduction to the facilities etc.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Term Assignment: "The same again differently"
+
+Darkroom Orientation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anne Cahill, Nikon Inc., Technical Representative (Come prepared with questions regarding equipment use)
+
+Darkroom Orientation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Review
+
+Yvonne Rainer, "Out of a Corner of the Sixties"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Digital Imaging (Dan van Roekel) Workshop in 3 groups, Individual Reviews per sign-up schedule
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Workshop I (Aaron Wittkamper and Aaron Malnarick)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paul Messier, Guest Lecturer on Color Photography and Processes
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Review (Last class review before midterm! Please pin-up prior to class)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Production and Lighting Workshop with Dan van Roekel
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Review
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Photography in the Museum: Metropolitan Museum of Art, NYC
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to local art venues: Bill Arning, Curator, MIT List Center
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Workshop II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Review
+
+Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Reviews
+
+Critique (Last class review! Address all important issues!)
+
+Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
