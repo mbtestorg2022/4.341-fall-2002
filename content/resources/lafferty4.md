@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: lafferty4.JPG
 uid: 1a604a34-83ee-ab69-cacb-5eb33ff76ecd

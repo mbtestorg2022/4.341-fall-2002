@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: shnayderman3.JPG
 uid: 6d344c00-008c-dc10-572f-1d12f6c3231d

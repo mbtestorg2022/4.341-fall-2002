@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: massey1.JPG
 uid: cb21260a-66a1-0ea7-ad46-8cfed53becd2

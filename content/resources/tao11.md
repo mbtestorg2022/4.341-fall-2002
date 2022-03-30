@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: tao11.jpg
 uid: e2828fe8-8302-7c48-236b-6cdcc4de43dc

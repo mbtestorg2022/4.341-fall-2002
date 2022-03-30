@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: braddock13.jpg
 uid: 0b5ab801-8078-4f2e-2885-0156ffeba8bf

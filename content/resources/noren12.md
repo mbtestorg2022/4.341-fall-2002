@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: noren12.jpg
 uid: da2bcb34-149b-93cc-13c7-0e8a3096ed02

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: halpern14.jpg
 uid: 5c3bab31-658c-4eb2-88f6-ff73cb34b539

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: carvey5.JPG
 uid: 895dd8a0-1d4c-fa68-8ddb-c81c6d1360ea

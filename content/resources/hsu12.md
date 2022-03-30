@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: hsu12.jpg
 uid: f1a39d95-4ce7-a963-e0fe-67ea84613760

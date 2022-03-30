@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 34260936-dd81-9b86-831b-996996bc9909
 resourcetype: Image
 title: hsu16.jpg
 uid: 57f07f55-b265-21d2-5c60-0f39afc7807b
